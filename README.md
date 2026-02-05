@@ -14,7 +14,7 @@ Open to collaboration, projects, and learning opportunities.
 - 🤔 **I’m looking for help with:** Real-world project structure and web development practices  
 - 💬 **Ask me about:** Python, basic AI/ML concepts, student projects  
 - 📫 **How to reach me:** Email or GitHub messages  
-- 😄 **Pronouns:** He/Him  
+- 😄 **Pronouns:** She/Her  
 - ⚡ **Fun fact:** I learn best by building projects, not just reading docs
 
 
