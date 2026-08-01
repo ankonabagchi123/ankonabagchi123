@@ -8,8 +8,8 @@
 📧 **Email me:** ankonabagchi@gmail.com  
 Open to collaboration, projects, and learning opportunities.
 
-- 🔭 **I’m currently working on:** Python projects and AI/ML-based applications  
-- 🌱 **I’m currently learning:** Web development (HTML, CSS, JavaScript)  
+- 🔭 **I’m currently working on:** Python projects and AI/ML-based applications and web development
+- 🌱 **I’m currently learning:** Web development   
 - 👯 **I’m looking to collaborate on:** Beginner-friendly open-source and student projects  
 - 🤔 **I’m looking for help with:** Real-world project structure and web development practices  
 - 💬 **Ask me about:** Python, basic AI/ML concepts, student projects  
