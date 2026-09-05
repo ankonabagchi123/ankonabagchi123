@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 # 💫 Hi 👋, I'm Ankona Bagchi  
-**CSE (AI & ML) student | Python,C | Aspiring Frontend Developer**
+**CSE (AI & ML) student | Python,Cpp | Aspiring FullStack Developer & AI Engineer**
 
 📧 **Email me:** ankonabagchi@gmail.com  
 Open to collaboration, projects, and learning opportunities.
@@ -12,7 +12,7 @@ Open to collaboration, projects, and learning opportunities.
 - 🌱 **I’m currently learning:** Web development   
 - 👯 **I’m looking to collaborate on:** Beginner-friendly open-source and student projects  
 - 🤔 **I’m looking for help with:** Real-world project structure and web development practices  
-- 💬 **Ask me about:** Python, basic AI/ML concepts, student projects  
+- 💬 **Ask me about:** Python, basic AI/ML concepts, student projects, CPP DSA 
 - 📫 **How to reach me:** Email or GitHub messages  
 - 😄 **Pronouns:** She/Her  
 - ⚡ **Fun fact:** I learn best by building projects, not just reading docs
